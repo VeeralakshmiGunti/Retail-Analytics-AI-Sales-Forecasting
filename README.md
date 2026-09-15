@@ -241,3 +241,28 @@ Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
+
+## 📌 Project Outcome
+
+The project successfully transforms raw retail sales data into meaningful business insights using data analysis, visualization, store segmentation, and time-series forecasting.
+
+The system helps to:
+
+- Understand overall retail sales and revenue performance.
+- Identify high-performing product categories and stores.
+- Analyze customer contribution and purchasing behavior.
+- Evaluate the impact of promotions and holidays on revenue.
+- Segment stores based on their performance using K-Means clustering.
+- Forecast future monthly revenue using ARIMA.
+- Support inventory, staffing, purchasing, and sales planning.
+- Present key analytics and recommendations through an interactive Streamlit dashboard.
+
+Overall, the project provides a data-driven approach to understanding retail performance and supporting better business decision-making.
+
+## 👩‍💻 Author
+
+**Veeralakshmi Gunti**
+
+B.Tech – Computer Science and Engineering
+
+Anurag Engineering College
