@@ -224,6 +224,7 @@ Retail-Analytics-AI-Sales-Forecasting/
 ├── dashboard_data.pkl
 ├── requirements.txt
 └── README.md
+```
 
 ## ▶️ How to Run the Project
 
@@ -241,7 +242,7 @@ Install the required libraries:
 
 ```bash
 pip install -r requirements.txt
-
+```
 ## 📌 Project Outcome
 
 The project successfully transforms raw retail sales data into meaningful business insights using data analysis, visualization, store segmentation, and time-series forecasting.
