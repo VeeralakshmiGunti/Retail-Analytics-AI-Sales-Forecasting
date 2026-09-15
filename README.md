@@ -224,3 +224,20 @@ Retail-Analytics-AI-Sales-Forecasting/
 ├── dashboard_data.pkl
 ├── requirements.txt
 └── README.md
+
+## ▶️ How to Run the Project
+
+### Run the Jupyter Notebook
+
+Open the following notebook:
+
+`Retail_Analytics_AI_Sales_Forecasting.ipynb`
+
+The notebook contains the complete data analysis, store segmentation, revenue forecasting, business insights, and dashboard data preparation workflow.
+
+### Run the Streamlit Dashboard
+
+Install the required libraries:
+
+```bash
+pip install -r requirements.txt
