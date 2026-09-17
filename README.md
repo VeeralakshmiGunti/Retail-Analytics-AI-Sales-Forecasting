@@ -213,6 +213,19 @@ The project includes an interactive **Streamlit dashboard** for visualizing impo
 
 The dashboard provides a single interface for exploring retail performance and forecasting results.
 
+## 📸 Project Outputs
+
+The following screenshots showcase the key outputs and results of the project:
+
+1. **Overall Business KPIs** – Summary of total revenue, sales, units sold, records, and store rating.
+2. **Monthly Revenue Trend** – Monthly revenue analysis for 2023–2024.
+3. **Store Segmentation using K-Means** – Store clustering based on performance characteristics.
+4. **ARIMA Actual vs Forecast Revenue** – Comparison of actual and forecasted revenue.
+5. **Streamlit Dashboard** – Interactive dashboard presenting retail analytics, segmentation, forecasting, and business recommendations.
+
+All project output screenshots are available in the `Outputs` folder.
+
+
 ## 📁 Project Structure
 
 ```text
