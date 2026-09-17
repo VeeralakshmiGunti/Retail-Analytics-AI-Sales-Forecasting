@@ -228,42 +228,59 @@ Retail-Analytics-AI-Sales-Forecasting/
 
 ## ▶️ How to Run the Project
 
-### Run the Jupyter Notebook
+### 1. Run the Jupyter Notebook
 
 Open the following notebook:
 
 `Retail_Analytics_AI_Sales_Forecasting.ipynb`
 
-The notebook contains the complete data analysis, store segmentation, revenue forecasting, business insights, and dashboard data preparation workflow.
+The notebook contains the complete project workflow, including:
 
-### Run the Streamlit Dashboard
+- Data Loading and Exploratory Data Analysis
+- Advanced Exploratory Data Analysis
+- Store Segmentation using K-Means
+- Monthly Revenue Analysis
+- ARIMA Revenue Forecasting
+- Forecast Model Evaluation
+- Business Insights
+- Business Recommendations
+- Dashboard Data Preparation
 
-Install the required libraries:
+### 2. Install Required Libraries
+
+Install the required Python libraries using the `requirements.txt` file:
 
 ```bash
 pip install -r requirements.txt
 ```
+
+### 3. Run the Streamlit Dashboard
+
+Make sure the following files are available in the same project folder:
+
+```text
+app.py
+dashboard_data.pkl
+```
+
+Run the dashboard using:
+
+```bash
+streamlit run app.py
+```
+
 ## 📌 Project Outcome
 
-The project successfully transforms raw retail sales data into meaningful business insights using data analysis, visualization, store segmentation, and time-series forecasting.
+The **Retail Analytics & AI-Powered Sales Forecasting System** successfully transforms retail transaction data into meaningful business insights and actionable information.
 
-The system helps to:
+The project analyzes sales performance across stores, products, customers, promotions, and holidays. It also identifies store performance patterns using **K-Means clustering** and forecasts future monthly revenue using **ARIMA time-series forecasting**.
 
-- Understand overall retail sales and revenue performance.
-- Identify high-performing product categories and stores.
-- Analyze customer contribution and purchasing behavior.
-- Evaluate the impact of promotions and holidays on revenue.
-- Segment stores based on their performance using K-Means clustering.
-- Forecast future monthly revenue using ARIMA.
-- Support inventory, staffing, purchasing, and sales planning.
-- Present key analytics and recommendations through an interactive Streamlit dashboard.
+The forecasting model achieved a **3.02% MAPE** on the testing period, and the system generated revenue forecasts for **January–June 2025**.
 
-Overall, the project provides a data-driven approach to understanding retail performance and supporting better business decision-making.
+An interactive **Streamlit dashboard** was developed to present revenue trends, category performance, store performance, customer contribution, store segmentation, promotion and holiday analysis, revenue forecasts, and business recommendations in a single interface.
+
+Overall, the project demonstrates how **Data Analysis, Data Visualization, Machine Learning, Time-Series Forecasting, and Business Intelligence** can be combined to support data-driven retail decision-making.
 
 ## 👩‍💻 Author
 
 **Veeralakshmi Gunti**
-
-B.Tech – Computer Science and Engineering
-
-Anurag Engineering College
