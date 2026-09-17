@@ -231,6 +231,13 @@ All project output screenshots are available in the `Outputs` folder.
 ```text
 Retail-Analytics-AI-Sales-Forecasting/
 │
+├── Outputs/
+│   ├── 01_Overall_Business_KPIs.png
+│   ├── 02_Monthly_Revenue_Trend.png
+│   ├── 03_Store_Segmentation_KMeans.png
+│   ├── 04_ARIMA_Actual_vs_Forecast.png
+│   └── 05_Streamlit_Dashboard.png
+│
 ├── Retail_Analytics_AI_Sales_Forecasting.ipynb
 ├── Retail_Sales_Data_Unlox.csv
 ├── app.py
